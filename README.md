@@ -1,5 +1,8 @@
 # commnuty
 基于ssm框架的小区物业管理系统
+
+idea eclipse运行 数据库mysql maven管理 前端layui
+
 完整项目 QQ2144920175 WX15263495021 完整项目 QQ2144920175 WX15263495021 完整项目 QQ2144920175 WX15263495021 完整项目 QQ2144920175 WX15263495021
 
 ![contents](./1.png)
